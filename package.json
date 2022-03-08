@@ -1,0 +1,14 @@
+{
+  "name": "tdnapi",
+  "version": "1.0.0",
+  "description": "E",
+  "main": "index.js",
+  "keywords": [
+    "API"
+  ],
+  "author": "TheDevNate",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
